@@ -1,0 +1,4 @@
+Devops Journey-Day 1
+practiced linux commands:pwd,ls,mkdir,cd,touch,nano
+feeling good about this start
+
