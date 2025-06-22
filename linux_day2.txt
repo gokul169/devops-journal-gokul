@@ -1,0 +1,6 @@
+Day 2 - Linux Permissions Practice
+-----------------------------
+- chmod: Change permissions
+- chown: Change file ownership
+- ls -l: View file permissions
+- whoami: Show current user
