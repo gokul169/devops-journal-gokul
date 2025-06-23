@@ -1,0 +1,10 @@
+/root/devops_day3/project
+├── README.md
+├── ReadMe.md
+├── bin
+├── logs
+│   └── error.log
+└── src
+    └── main.sh
+
+4 directories, 4 files
