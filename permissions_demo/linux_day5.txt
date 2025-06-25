@@ -1,0 +1,9 @@
+Created a new user testuser
+
+Created a group devteam
+
+Added testuser to devteam group
+
+Verified group membership using id testuser
+
+Bonus: File permission demo with file1.txt, file2.txt, and script.sh
