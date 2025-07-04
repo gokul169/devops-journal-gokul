@@ -1,0 +1,40 @@
+# Day 7 - Linux Process & Job Management
+
+## Commands Practiced:
+
+1. sleep 60 &
+   - Backgrounded a sleep process.
+
+2. jobs
+   - Checked list of background jobs.
+
+3. fg %1
+   - Brought background job to foreground.
+
+4. bg %1
+   - Resumed a stopped job in background.
+
+5. kill <PID>
+   - Killed process using PID (replace <PID> with actual number).
+
+6. nice -n 10 sleep 100 &
+   - Started a process with lower priority.
+
+7. ps aux | grep sleep
+   - Listed all running sleep processes.
+
+8. renice -n -5 -p <PID>
+   - Changed priority of a running process (higher priority).
+
+9. htop
+   - Launched interactive process viewer (press `q` to quit).
+
+10. Ctrl + Z
+    - Suspended current foreground process.
+
+## Observations:
+
+- Learned the concept of foreground, background, and stopped jobs.
+- Understood how to control process priorities using `nice` and `renice`.
+- `ps`, `jobs`, and `htop` help monitor and manage system processes effectively.
+- Faced errors like "No such job" and learned how jobs expire after completion.
