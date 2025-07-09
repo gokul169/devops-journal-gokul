@@ -1,0 +1,18 @@
+ 15:14:43 up  2:44,  1 user,  load average: 0.00, 0.00, 0.00
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.1-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         176G  168G  7.7G  96% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.6G  955G   1% /
+none            1.9G  204K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  532K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             176G  168G  7.7G  96% /mnt/c
+D:\             150G   11G  140G   8% /mnt/d
+E:\             150G  147M  150G   1% /mnt/e
+tmpfs           1.9G   16K  1.9G   1% /run/user/0
